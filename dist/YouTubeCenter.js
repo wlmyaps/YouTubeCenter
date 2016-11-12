@@ -24,7 +24,7 @@
 // @id              YouTubeCenter
 // @name            William Yap special for youtube
 // @namespace       http://www.facebook.com/YouTubeCenter
-// @version         533
+// @version         538
 // @author          William Yap
 // @description     wlmyaps Center for YouTube contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
 // @icon            https://raw.github.com/wlmyaps/YouTubeCenter/master/assets/icon48.png
@@ -44,7 +44,7 @@
 // @match           https://www.youtube.com/*
 // @match           http://youtube.com/*
 // @match           https://youtube.com/*
-// @match           https://wlmyaps.github.io/downloads/YouTubeCenter.meta.js
+// @match           https://github.com/wlmyaps/YouTubeCenter/blob/master/dist/YouTubeCenter.meta.js
 // @match           http://s.ytimg.com/yts/jsbin/*
 // @match           https://s.ytimg.com/yts/jsbin/*
 // @match           https://raw.github.com/wlmyaps/YouTubeCenter/master/*
